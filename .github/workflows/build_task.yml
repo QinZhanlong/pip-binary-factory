@@ -25,7 +25,7 @@ jobs:
         working-directory: ./task
 
       - run: |
-          pip install --no-index -f task/dist/ go-task-bin
+          pip install --no-index -f task/dist/ qin-task
           task --version
 
       - uses: actions/upload-artifact@v4
