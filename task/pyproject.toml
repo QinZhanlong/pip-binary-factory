@@ -1,5 +1,5 @@
 [project]
-name = "go-task-bin"
+name = "qin-task"
 description = "task - A task runner / simpler Make alternative written in Go"
 version = "3.41.0"
 authors = [{ name = "dowon", email = "ks2515@naver.com" }]
