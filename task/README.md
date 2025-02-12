@@ -32,5 +32,5 @@ This is a python wrapper that can be installed with pip.
 ## install
 
 ```sh
-pip install go-task-bin
+pip install qin-task
 ```
